@@ -6,7 +6,7 @@
 
 I build web applications and backend services using **Java, Spring Boot, React, and MySQL**.
 
-[LinkedIn](https://linkedin.com/in/itz-tamilselvam/) · [GitHub](https://github.com/TamilSelvam1817)
+[LinkedIn](https://www.linkedin.com/in/tamil-selvam-51b5b4291/?isSelfProfile=true) · [GitHub](https://github.com/TamilSelvam1817)
 
 </div>
 
@@ -123,7 +123,7 @@ Java practice solutions for graph algorithms, binary search, and coding intervie
 
 ## 🤝 Connect
 
-- **LinkedIn:** [Tamil Selvam](https://linkedin.com/in/itz-tamilselvam/)
+- **LinkedIn:** [Tamil Selvam](https://www.linkedin.com/in/tamil-selvam-51b5b4291/?isSelfProfile=true)
 - **GitHub:** [TamilSelvam1817](https://github.com/TamilSelvam1817)
 
 ---
