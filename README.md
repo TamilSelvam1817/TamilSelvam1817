@@ -1,17 +1,3 @@
-<div align="center">
-
-# Hi, I'm Tamil Selvam 👋
-
-### Java Full Stack Developer | Backend Development | REST APIs
-
-I build web applications and backend services using **Java, Spring Boot, React, and MySQL**.
-
-[LinkedIn](https://www.linkedin.com/in/tamil-selvam-51b5b4291/?isSelfProfile=true) · [GitHub](https://github.com/TamilSelvam1817)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 - 💻 Focused on **Java Full Stack and backend development**
